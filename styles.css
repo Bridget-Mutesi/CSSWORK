@@ -1,0 +1,19 @@
+.container{
+            border: solid black;
+            padding: 20px;
+            width: 70%;
+            margin: 5%;
+            border-style: dotted;
+            background-color: brown;
+}
+.words{
+    border-style: solid;
+    border-color: darkgoldenrod;
+    padding: 20px;
+    margin: 5%;
+    background-color: rgb(191, 248, 191);
+    text-align: center;
+
+
+
+}
